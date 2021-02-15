@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saraaahh63/test-api.git"
+    "url": "git+https://github.com//test-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saraaahh63/test-api/issues"
+    "url": "https://github.com/almazhanabdukhat/test-api/issues"
   },
-  "homepage": "https://github.com/saraaahh63/test-api#readme",
+  "homepage": "https://github.com/almazhanabdukhat/test-api#readme",
   "dependencies": {
     "brew": "0.0.8",
     "json-server": "^0.16.3"
